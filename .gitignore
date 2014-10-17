@@ -1,0 +1,27 @@
+# Operating System Files
+
+*.DS_Store
+Thumbs.db
+
+# Build Files #
+
+bin
+target
+build/
+.gradle
+
+/target/
+/logs/
+/secure/
+log.out
+tokens_10.txt
+tokens_10.txt.tmp
+
+application.properties
+orderme.pid
+
+# Eclipse Project Files #
+
+.classpath
+.project
+.settings
