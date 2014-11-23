@@ -1,4 +1,4 @@
-tron-spring-reactor-bridge
+tron-springer
 ==========================
 
 Lean and Clean Tron bridge based on Spring Reactor.
